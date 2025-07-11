@@ -1,0 +1,54 @@
+# Flutter build outputs
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+generated_plugin_registrant.dart
+
+# iOS & Android
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+android/.gradle/
+android/app/build/
+android/key.properties
+android/app/chatgame-key.jks
+
+# VS Code & IntelliJ
+.vscode/
+.idea/
+*.iml
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Log files
+*.log
+
+# SQLite / testing files
+*.sqlite
+*.db
+
+# Node modules (if used)
+node_modules/
+
